@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Laravel 8
 - 💞️ I’m looking to collaborate on complex projects.
-- 📫 alexandruglovac.aig@gmail.com
+- 📫 alex.glovac@gmail.com
